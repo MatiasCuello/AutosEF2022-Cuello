@@ -1,0 +1,16 @@
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\bin\Debug\AutosEF2022.Consola.exe.config
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\bin\Debug\AutosEF2022.Consola.exe
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\bin\Debug\AutosEF2022.Consola.pdb
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\obj\Debug\AutosEF2022.Consola.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\obj\Debug\AutosEF2022.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\obj\Debug\AutosEF2022.Consola.exe
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\obj\Debug\AutosEF2022.Consola.pdb
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\bin\Debug\AutosEF2022.Context.dll
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\bin\Debug\AutosEF2022.Entidades.dll
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\bin\Debug\EntityFramework.dll
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\bin\Debug\AutosEF2022.Context.pdb
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\bin\Debug\AutosEF2022.Entidades.pdb
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\bin\Debug\EntityFramework.xml
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Consola\obj\Debug\AutosEF2022.Consola.csproj.CopyComplete

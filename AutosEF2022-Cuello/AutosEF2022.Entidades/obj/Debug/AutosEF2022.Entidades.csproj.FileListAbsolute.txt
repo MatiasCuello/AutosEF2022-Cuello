@@ -1,0 +1,6 @@
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Entidades\obj\Debug\AutosEF2022.Entidades.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Entidades\obj\Debug\AutosEF2022.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Entidades\bin\Debug\AutosEF2022.Entidades.dll
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Entidades\bin\Debug\AutosEF2022.Entidades.pdb
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Entidades\obj\Debug\AutosEF2022.Entidades.dll
+C:\Users\Matias\source\repos\AutosEF2022-Cuello\AutosEF2022.Entidades\obj\Debug\AutosEF2022.Entidades.pdb
